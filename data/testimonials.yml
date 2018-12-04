@@ -1,0 +1,15 @@
+testimonials:
+  - name: "Bimal More"
+    company: "More India"
+    designation: "Entreupreneur"
+    image: images/bimal_more.jpg
+    testimonial: |-
+      An Excellent place in Hooghly for Badminton Coaching.
+  - name: "Rishov Chatterjee"
+    company: "AOT, Adisaptagram"
+    designation: "Student"
+    image: images/rishov_chatterjee.jpg
+    testimonial: |-
+      Amar choto belar ekti boroshoro akorshoner jayga.... Choto bela theke, pujo te, nijer para chere, ekhanei eshe dhuki...durga pujo onek jaygatei hoye, kintu, ekhane jeno, alada Ekta amej Pai, jeta ekhono obdhi, 
+      ar kothao Paini....
+      Keep it up

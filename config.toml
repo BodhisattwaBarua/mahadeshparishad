@@ -1,0 +1,4 @@
+baseURL = "https://mahadeshparishad.netlify.com/"
+languageCode = "en-us"
+title = "Mahadesh Parishad"
+theme = "sm-mahadeshparishad"
